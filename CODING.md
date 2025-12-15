@@ -1,5 +1,3 @@
-
-
 # Talent Protocol — Coding Guidelines
 
 > **Status:** WIP  
