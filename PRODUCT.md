@@ -138,8 +138,8 @@ These metrics indicate product health and progress.
 ### Apps
 
 - **Main:** [talent.app](https://talent.app) (aliases: talentprotocol.com, app.talentprotocol.com)
-- **Builder Score:** [builderscore.xyz](https://www.builderscore.xyz/)
-- **Creator Score:** [creatorscore.app](https://www.creatorscore.app/)
+- **Deprecated Builder Rewards Miniapp:** [builderscore.xyz](https://www.builderscore.xyz/)
+- **Creator Score App (not actively maintained):** [creatorscore.app](https://www.creatorscore.app/)
 
 ### Resources
 
