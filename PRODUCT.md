@@ -7,48 +7,50 @@
 
 ---
 
-## WHY
+## Mission (WHY)
 
 Give builders the recognition they deserve.
 
-## WHAT
+## Product Definition (WHAT)
 
 A builder network that ranks and rewards the best onchain builders.
 
-**Core features of a builder network:**
+### Core Capabilities
 
-- Builder Profiles
-- Search & Discovery
-- Project & Ecosystem Pages
-- Builder Leaderboards & Rank *(unique feature)*
-- Reward Campaigns *(unique feature)*
-- Builder Graph *(coming soon)*
+- Builder profiles with verified activity
+- Project and ecosystem pages
+- Search and discovery across builders and projects
+- Builder leaderboards and rankings *(unique to talent)*
+- Ecosystem-sponsored reward campaigns *(unique to talent)*
+- Builder graph *(planned)*
 
-## WHO
+## Users (WHO)
 
 A network connecting builders, ecosystems, traders, and professionals.
 
-- **For builders:** Prove your building activity, get discovered, and earn rewards.
-- **For ecosystems:** Understand and grow your builder ecosystem.
+- **For builders:** Prove building activity, get discovered, and earn rewards.
+- **For ecosystems:** Grow and measure your builder ecosystem.
 - **For traders:** Find top builders and bet on their coins.
 - **For professionals:** Search, filter, and reach verified builders in crypto.
 
-## HOW
+## Architecture (HOW)
 
-### Talent Protocol
+### Talent Protocol (Reputation Engine)
 
-Data engine that turns raw data into programmable reputation.
+The core data and scoring layer, that turns raw data into programmable reputation.
 
-- Indexes and verifies builder activity
-- Calculates reputation scores and rankings
-- Powers discovery, search, and filtering
-- Distributes rewards programmatically
-- Exposes data via API for apps and integrations
+Responsibilities:
+- Index and verify builder activity
+- Calculate reputation scores and rankings
+- Power discovery, search, and filtering
+- Distribute rewards programmatically
+- Expose data via API for apps and integrations
 
-### Talent Apps
+### Talent Apps (User Interfaces)
 
-Web interfaces and experiences where reputation is rewarded, discoverable, and tradable.
+Web applications, built on top of Talent Protocol, where reputation is rewarded, discoverable, and tradable.
 
+Capabilities:
 - Profiles and reputation tracking for builders
 - Leaderboards and trading signals for traders
 - Campaigns and dashboards for ecosystems
@@ -58,45 +60,60 @@ Web interfaces and experiences where reputation is rewarded, discoverable, and t
 
 ## Positioning
 
+### Primary Claim
 **Talent is the largest network of verified onchain builders.**
 
 **Tagline:** "Bet on builders."
 
 **Competition:** LinkedIn, the world's largest professional network.
 
-**Differentiators:**
+### Competitive Comparison
 
-- LinkedIn is a list/directory, Talent is a leaderboard.
-- LinkedIn is self-reported, Talent is verified.
-- LinkedIn is a resume, Talent is reputation.
+- LinkedIn is a directory; Talent is a leaderboard.
+- LinkedIn is self-reported; Talent is verified.
+- LinkedIn shows work history; Talent measures reputation.
+
 
 ---
 
 ## Current Focus
 
-A new app to connect builders and ecosystems via reward campaigns.
+Primary focus: build a new app to connect builders and ecosystems through reward campaigns.
 
-Our top priority is building the best app to **connect builders and ecosystems**.
+### Acquisition
 
-- **Acquisition** — We attract builders with ecosystem-sponsored rewards, and make it easy for them to bring others (shareable campaigns and leaderboards).
-- **Retention** — Combine flawless UX with gamification tactics (leaderboards, streaks, badges) to create a strong habit loop that doesn't depend solely on rewards.
-- **Revenue** — Ecosystems work with us to reach and retain top builders with high-ROI campaigns; Builders pay for Talent Plus subscriptions to access features like increased visibility, access to more rewards, or profile analytics.
+- Ecosystem-sponsored rewards attract builders
+- Shareable campaigns and leaderboards drive referrals
 
-### Parallel Product Bets
+### Retention
 
-**Traders** — Betting on builders
+- Flawless UX
+- Gamification: leaderboards, streaks, badges
+- Habit loop not solely dependent on rewards
 
-- Exploring the idea of betting on builders.
-- Traders and tokens are an untapped revenue source with 10x more potential. But we first need an app that builders use regularly.
+### Revenue
 
-**Professionals** — Sourcing talent
+- B2B: Ecosystems work with us to reach and retain top builders with high-ROI campaigns
+- B2C: Builders pay for Talent Plus subscriptions to access features like increased visibility, access to more rewards, or profile analytics.
 
-- Explore the largest supply of verified and ranked builders in crypto with advanced search tools.
-- Find proven builders, not just polished résumés.
+
+## Experiments & Future Directions
+
+### Traders
+- Exploring mechanisms for betting on builders.
+- This is a high-potential revenue stream, but first we need an app that builders use regularly.
+
+### Professionals
+- Explore the largest supply of verified builders in crypto with advanced search tools.
+- "Find proven builders, not just polished résumés."
+- This is complementary to the core builder–ecosystem loop.
+
 
 ---
 
-## Key Product Metrics
+## Success Metrics
+
+These metrics indicate product health and progress.
 
 ### Acquisition
 
