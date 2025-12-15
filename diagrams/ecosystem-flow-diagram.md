@@ -2,35 +2,24 @@
 
 ```mermaid
 graph TB
-    subgraph "1. Ecosystems"
-        E[Ecosystems]
-    end
+    E[Ecosystems]
+    T[Talent App]
+    TR[Traders]
+    P[Professionals]
     
-    subgraph "Central Platform"
-        T[Talent App]
-    end
-    
-    subgraph "2. Traders"
-        TR[Traders]
-    end
-    
-    subgraph "3. Companies / Recruiters"
-        C[Companies /<br/>Recruiters]
-    end
-    
-    E -->|builder<br/>attention| T
+    T -->|builder<br/>attention| E
     E -->|rewards| T
     
-    T -->|capital| TR
+    TR -->|capital| T
     T -->|builder<br/>data| TR
     
-    T -->|opportunities| C
-    T -->|builder<br/>data| C
+    P -->|opportunities| T
+    T -->|builder<br/>data| P
     
-    style E fill:#000,stroke:#000,stroke-width:3px,color:#fff
+    style E fill:#fff,stroke:#000,stroke-width:3px,color:#000
     style T fill:#000,stroke:#000,stroke-width:3px,color:#fff
     style TR fill:#fff,stroke:#ccc,stroke-width:2px,color:#666
-    style C fill:#fff,stroke:#ccc,stroke-width:2px,color:#666
+    style P fill:#fff,stroke:#ccc,stroke-width:2px,color:#666
 ```
 
 ## Flow Description
