@@ -2,7 +2,7 @@
 
 > **Status:** Active  
 > **Last updated:** 2025-12-15  
-> **Maintained by:** [@filmacedo](https://github.com/filmacedo)
+> **Maintained by:** [@filmacedo](https://github.com/filmacedo)  
 > **Purpose:** This document outlines our product vision, who we serve, how our stack works, and where we're focused. It's intended for the team, contributors, partners, and anyone (human or AI) who wants to understand what we're building and why.
 
 ---
@@ -44,7 +44,8 @@ Responsibilities:
 - Calculate reputation scores and rankings
 - Power discovery, search, and filtering
 - Distribute rewards programmatically
-- Expose data via API for apps and integrations
+- Expose reputation data via API for developers.
+
 
 ### Talent Apps (User Interfaces)
 

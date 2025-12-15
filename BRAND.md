@@ -1,8 +1,8 @@
 # Talent Protocol — Brand Guidelines 
 
-> **Status:** WIP
+> **Status:** WIP  
 > **Last updated:** 2025-12-15  
-> **Maintained by:** [@filmacedo](https://github.com/filmacedo)
+> **Maintained by:** [@filmacedo](https://github.com/filmacedo)  
 > **Purpose:** Define how Talent Protocol should be represented visually and verbally across products, content, and interfaces. 
 
 ---

@@ -2,9 +2,9 @@
 
 # Talent Protocol — Coding Guidelines
 
-> **Status:** WIP
+> **Status:** WIP  
 > **Last updated:** 2025-12-15  
-> **Maintained by:** [@filmacedo](https://github.com/filmacedo)
+> **Maintained by:** [@filmacedo](https://github.com/filmacedo)  
 > **Purpose:** Define how code should be written, structured, and reasoned about at Talent Protocol.
 
 ---
