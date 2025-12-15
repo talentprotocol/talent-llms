@@ -1,0 +1,2 @@
+This repository defines canonical context for Talent Protocol.
+Start with README.md, then PRODUCT.md and GLOSSARY.md.
