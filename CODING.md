@@ -7,6 +7,16 @@
 
 ---
 
+
+## Misc notes
+
+- If your file is in /packages/ui you should always use “ui:” in your tailwind classes; if your file is anywhere else (example: your app code) you should not use “ui:”
+- Use the ResponsiveModal component for all dialogs (there’s also ResponsiveSheet)
+
+
+
+---
+
 ## Philosophy
 
 - What we optimize for
