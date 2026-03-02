@@ -9,53 +9,26 @@
 
 ## Mission (WHY)
 
-Give builders the recognition they deserve.
+Help the best builders get recognition & capital
 
 ## Product Definition (WHAT)
 
-A builder network that ranks and rewards the best onchain builders.
+A platform that connects builders, projects and capital.
 
 ### Core Capabilities
 
-- Builder profiles with verified activity
-- Project and ecosystem pages
-- Search and discovery across builders and projects
-- Builder leaderboards and rankings *(unique to talent)*
-- Ecosystem-sponsored reward campaigns *(unique to talent)*
-- Builder graph *(planned)*
+- Builder profiles and project pages with verified activity/impact
+- Search + leaderboards across builders and projects
+- Builder campaigns (monthly rewards, builder sprints)
 
 ## Users (WHO)
 
-A network connecting builders, ecosystems, traders, and professionals.
+A platform that connects builders and opportunities.
 
-- **For builders:** Prove building activity, get discovered, and earn rewards.
-- **For ecosystems:** Grow and measure your builder ecosystem.
-- **For traders:** Find top builders and bet on their coins.
-- **For professionals:** Search, filter, and reach verified builders in crypto.
-
-## Architecture (HOW)
-
-### Talent Protocol (Reputation Engine)
-
-The core data and scoring layer, that turns raw data into programmable reputation.
-
-Responsibilities:
-- Index and verify builder activity
-- Calculate reputation scores and rankings
-- Power discovery, search, and filtering
-- Distribute rewards programmatically
-- Expose reputation data via API for developers.
-
-
-### Talent Apps (User Interfaces)
-
-Web applications, built on top of Talent Protocol, where reputation is rewarded, discoverable, and tradable.
-
-Capabilities:
-- Profiles and reputation tracking for builders
-- Leaderboards and trading signals for traders
-- Campaigns and dashboards for ecosystems
-- Search, filtering, and outreach tools for professionals
+- **For builders:** Prove building activity, get discovered, and earn rewards.
+- **For ecosystems:** Grow adoption of your tools.
+- **For capital:** Find future founders.
+- **For recruiters:** Search verified builders.
 
 ---
 
@@ -98,17 +71,6 @@ Primary focus: build a new app to connect builders and ecosystems through reward
 - B2C: Builders pay for Talent Plus subscriptions to access features like increased visibility, access to more rewards, or profile analytics.
 
 
-## Experiments & Future Directions
-
-### Traders
-- Exploring mechanisms for betting on builders.
-- This is a high-potential revenue stream, but first we need an app that builders use regularly.
-
-### Professionals
-- Explore the largest supply of verified builders in crypto with advanced search tools.
-- "Find proven builders, not just polished résumés."
-- This is complementary to the core builder–ecosystem loop.
-
 
 ---
 
@@ -138,9 +100,8 @@ These metrics indicate product health and progress.
 ### Apps
 
 - **Main:** [talent.app](https://talent.app) (aliases: talentprotocol.com, app.talentprotocol.com)
-- **Deprecated Builder Rewards Miniapp:** [builderscore.xyz](https://www.builderscore.xyz/)
-- **Creator Score App (not actively maintained):** [creatorscore.app](https://www.creatorscore.app/)
-
+- **Talent Pro:** https://pro.talent.app/
+  
 ### Resources
 
 - **Token:** [token.talentprotocol.com](https://token.talentprotocol.com)
@@ -151,7 +112,5 @@ These metrics indicate product health and progress.
 
 ### Socials
 
-- [Discord](https://discord.com/invite/talentprotocol)
-- [Farcaster](https://farcaster.xyz/talent)
 - [X / Twitter](https://x.com/talentprotocol)
 - [Blog (Paragraph)](https://paragraph.xyz/@talentprotocol)
