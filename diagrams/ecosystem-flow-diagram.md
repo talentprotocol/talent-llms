@@ -27,13 +27,13 @@ graph TB
 ### 1. Central Hub: Talent App
 - Aggregates builder reputation data and facilitates flows between all participants.
 
-### 3. Ecosystems
+### 2. Ecosystems
 - **Input**: Builder attention (discovery, engagement)
 - **Output**: Rewards to builders via Talent App
 
 ### 3. Traders
 - **Input**: Capital investment
-- **Output**: Access to aggreagated builder data for conviction
+- **Output**: Access to aggregated builder data for conviction
 
 ### 4. Professionals
 - **Input**: Curation of verified builders
